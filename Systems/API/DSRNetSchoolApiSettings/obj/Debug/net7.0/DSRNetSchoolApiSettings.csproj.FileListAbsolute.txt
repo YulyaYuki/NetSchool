@@ -1,0 +1,12 @@
+C:\Users\БОсс\Desktop\Репы\NetSchool\Systems\API\DSRNetSchoolApiSettings\bin\Debug\net7.0\DSRNetSchoolApiSettings.deps.json
+C:\Users\БОсс\Desktop\Репы\NetSchool\Systems\API\DSRNetSchoolApiSettings\bin\Debug\net7.0\DSRNetSchoolApiSettings.dll
+C:\Users\БОсс\Desktop\Репы\NetSchool\Systems\API\DSRNetSchoolApiSettings\bin\Debug\net7.0\DSRNetSchoolApiSettings.pdb
+C:\Users\БОсс\Desktop\Репы\NetSchool\Systems\API\DSRNetSchoolApiSettings\obj\Debug\net7.0\DSRNetSchoolApiSettings.csproj.AssemblyReference.cache
+C:\Users\БОсс\Desktop\Репы\NetSchool\Systems\API\DSRNetSchoolApiSettings\obj\Debug\net7.0\DSRNetSchoolApiSettings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\БОсс\Desktop\Репы\NetSchool\Systems\API\DSRNetSchoolApiSettings\obj\Debug\net7.0\DSRNetSchoolApiSettings.AssemblyInfoInputs.cache
+C:\Users\БОсс\Desktop\Репы\NetSchool\Systems\API\DSRNetSchoolApiSettings\obj\Debug\net7.0\DSRNetSchoolApiSettings.AssemblyInfo.cs
+C:\Users\БОсс\Desktop\Репы\NetSchool\Systems\API\DSRNetSchoolApiSettings\obj\Debug\net7.0\DSRNetSchoolApiSettings.csproj.CoreCompileInputs.cache
+C:\Users\БОсс\Desktop\Репы\NetSchool\Systems\API\DSRNetSchoolApiSettings\obj\Debug\net7.0\DSRNetSchoolApiSettings.dll
+C:\Users\БОсс\Desktop\Репы\NetSchool\Systems\API\DSRNetSchoolApiSettings\obj\Debug\net7.0\refint\DSRNetSchoolApiSettings.dll
+C:\Users\БОсс\Desktop\Репы\NetSchool\Systems\API\DSRNetSchoolApiSettings\obj\Debug\net7.0\DSRNetSchoolApiSettings.pdb
+C:\Users\БОсс\Desktop\Репы\NetSchool\Systems\API\DSRNetSchoolApiSettings\obj\Debug\net7.0\ref\DSRNetSchoolApiSettings.dll

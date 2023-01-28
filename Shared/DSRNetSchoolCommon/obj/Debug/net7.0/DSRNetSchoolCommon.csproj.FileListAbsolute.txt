@@ -1,0 +1,12 @@
+C:\Users\БОсс\Desktop\Репы\NetSchool\Shared\DSRNetSchoolCommon\obj\Debug\net7.0\DSRNetSchoolCommon.csproj.AssemblyReference.cache
+C:\Users\БОсс\Desktop\Репы\NetSchool\Shared\DSRNetSchoolCommon\obj\Debug\net7.0\DSRNetSchoolCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\БОсс\Desktop\Репы\NetSchool\Shared\DSRNetSchoolCommon\obj\Debug\net7.0\DSRNetSchoolCommon.AssemblyInfoInputs.cache
+C:\Users\БОсс\Desktop\Репы\NetSchool\Shared\DSRNetSchoolCommon\obj\Debug\net7.0\DSRNetSchoolCommon.AssemblyInfo.cs
+C:\Users\БОсс\Desktop\Репы\NetSchool\Shared\DSRNetSchoolCommon\obj\Debug\net7.0\DSRNetSchoolCommon.csproj.CoreCompileInputs.cache
+C:\Users\БОсс\Desktop\Репы\NetSchool\Shared\DSRNetSchoolCommon\bin\Debug\net7.0\DSRNetSchoolCommon.deps.json
+C:\Users\БОсс\Desktop\Репы\NetSchool\Shared\DSRNetSchoolCommon\bin\Debug\net7.0\DSRNetSchoolCommon.dll
+C:\Users\БОсс\Desktop\Репы\NetSchool\Shared\DSRNetSchoolCommon\bin\Debug\net7.0\DSRNetSchoolCommon.pdb
+C:\Users\БОсс\Desktop\Репы\NetSchool\Shared\DSRNetSchoolCommon\obj\Debug\net7.0\DSRNetSchoolCommon.dll
+C:\Users\БОсс\Desktop\Репы\NetSchool\Shared\DSRNetSchoolCommon\obj\Debug\net7.0\refint\DSRNetSchoolCommon.dll
+C:\Users\БОсс\Desktop\Репы\NetSchool\Shared\DSRNetSchoolCommon\obj\Debug\net7.0\DSRNetSchoolCommon.pdb
+C:\Users\БОсс\Desktop\Репы\NetSchool\Shared\DSRNetSchoolCommon\obj\Debug\net7.0\ref\DSRNetSchoolCommon.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pa1zZHPclSjm/dQjbevxk/TuNfz/J7vOAi0sMoJypagyKr4T1vOxpVAxucr0PI/uQCBFV0K7mPSZoyktwB8PeQ==",
+  "dgSpecHash": "L/vm5m29hPIbgssAYAsq9g48PKxD4tLrAp1uKeaBWErnqeHxoGMd2ocOo7DeV6DIJYpRoeYafAH/olFdLsOd7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\БОсс\\Desktop\\Репы\\NetSchool\\Systems\\API\\DSRNetSchoolAPI\\DSRNetSchoolAPI.csproj",
+  "projectFilePath": "C:\\Users\\БОсс\\Desktop\\Репы\\DSRNet\\NetSchool\\Systems\\API\\DSRNetSchoolAPI\\DSRNetSchoolAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

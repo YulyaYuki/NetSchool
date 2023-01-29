@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\БОсс\\Desktop\\Репы\\NetSchool\\Shared\\DSRNetSchoolCommon\\DSRNetSchoolCommon.csproj": {}
+    "C:\\Users\\БОсс\\Desktop\\Репы\\DSRNet\\NetSchool\\Shared\\DSRNetSchoolCommon\\DSRNetSchoolCommon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\БОсс\\Desktop\\Репы\\NetSchool\\Shared\\DSRNetSchoolCommon\\DSRNetSchoolCommon.csproj": {
+    "C:\\Users\\БОсс\\Desktop\\Репы\\DSRNet\\NetSchool\\Shared\\DSRNetSchoolCommon\\DSRNetSchoolCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\БОсс\\Desktop\\Репы\\NetSchool\\Shared\\DSRNetSchoolCommon\\DSRNetSchoolCommon.csproj",
+        "projectUniqueName": "C:\\Users\\БОсс\\Desktop\\Репы\\DSRNet\\NetSchool\\Shared\\DSRNetSchoolCommon\\DSRNetSchoolCommon.csproj",
         "projectName": "DSRNetSchoolCommon",
-        "projectPath": "C:\\Users\\БОсс\\Desktop\\Репы\\NetSchool\\Shared\\DSRNetSchoolCommon\\DSRNetSchoolCommon.csproj",
+        "projectPath": "C:\\Users\\БОсс\\Desktop\\Репы\\DSRNet\\NetSchool\\Shared\\DSRNetSchoolCommon\\DSRNetSchoolCommon.csproj",
         "packagesPath": "C:\\Users\\БОсс\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\БОсс\\Desktop\\Репы\\NetSchool\\Shared\\DSRNetSchoolCommon\\obj\\",
+        "outputPath": "C:\\Users\\БОсс\\Desktop\\Репы\\DSRNet\\NetSchool\\Shared\\DSRNetSchoolCommon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

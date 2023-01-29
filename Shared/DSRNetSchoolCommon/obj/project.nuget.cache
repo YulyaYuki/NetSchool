@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ux7/i8lTmX1cV9nVbSSpeh8JiZqv2oei5SpKJvpJHDyvQAgZp2dEq/3ywfwy831lIdzD7Ia90HBobDoRGot3/w==",
+  "dgSpecHash": "3emP2pdRX5ixDTErIUyGDpjOlGul+9WtgiVNXcajuuNDr3IL1yNJ02mhTRYWTWFTq5tIOV7XXDGcTIhwBoyAYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\БОсс\\Desktop\\Репы\\NetSchool\\Shared\\DSRNetSchoolCommon\\DSRNetSchoolCommon.csproj",
+  "projectFilePath": "C:\\Users\\БОсс\\Desktop\\Репы\\DSRNet\\NetSchool\\Shared\\DSRNetSchoolCommon\\DSRNetSchoolCommon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\БОсс\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\БОсс\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
